@@ -14,7 +14,8 @@ If you haven't already, clone the repository to your local machine using the fol
 
 bash
 Copy code
-git clone git@github.com:Anshu-17/Shopping_system-Java.git
+git clone:  git@github.com:Anshu-17/Shopping_system-Java.git
+git hub repo address : https://github.com/Anshu-17/Shopping_system-Java/tree/main
 Alternatively, download the repository as a ZIP file and extract it to your preferred directory.
 
 Navigate to the Project Directory:
